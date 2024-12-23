@@ -27,5 +27,7 @@ int main(){
     cout<<marks2[1]<<endl; //2
     cout<<marks2[2]<<endl; //3
     cout<<marks2[3]<<endl; //garbage value with warning
+
+    return 0;
     
 }
