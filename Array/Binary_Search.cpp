@@ -27,5 +27,5 @@ int main(){
     int len = sizeof(arr)/sizeof(int);
 
     cout<<BinarySearch(arr,len,20);
-    return ;
+    return 0;
 }
